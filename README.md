@@ -8,8 +8,8 @@
 - Can speak `Cantonese`, `Chinese`, `English`, `Japanese` (Learning)
 
 ## Stats
-[![Veutexus's GitHub stats](https://github-readme-stats-two-ivory-13.vercel.app/api?username=Veutexus&bg_color=00000000&hide_border=true&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/Veutexus)
-[![Veutexus's Top languages](https://github-readme-stats-two-ivory-13.vercel.app/api/top-langs?username=Veutexus&bg_color=00000000&layout=compact&hide_border=true&theme=dark)](https://github.com/Veutexus)
+[![Veutexus's GitHub stats](https://github-readme-stats-two-ivory-13.vercel.app/api?username=Veutexus&bg_color=00000000&hide_border=true&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/Veutexus)
+[![Veutexus's Top languages](https://github-readme-stats-two-ivory-13.vercel.app/api/top-langs?username=Veutexus&bg_color=00000000&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Veutexus)
 
 ## Programming Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language))
