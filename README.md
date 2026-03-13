@@ -4,7 +4,7 @@
 
 ## About me
 - Student
-- Currently learning new stuff including `TypeScript`, `Kotlin`
+- Currently learning new stuff including `TypeScript`, `Kotlin`, `Rust`
 - Can speak `Cantonese`, `Chinese`, `English`, `Japanese` (Learning)
 
 ## Stats
